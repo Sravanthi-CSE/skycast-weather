@@ -12,7 +12,7 @@
 
 > **A cutting-edge weather application featuring glassmorphism design, real-time data, 5-day forecasts, and seamless animations**
 
-[🔗 Live Demo](#live-demo) • [✨ Features](#✨-key-features) • [📚 Tech Stack](#-tech-stack) • [🚀 Quick Start](#-quick-start) • [📸 Screenshots](#-screenshots)
+[🔗 Live Demo](#live-demo) • [✨ Features](#✨-key-features) • [📚 Tech Stack](#-tech-stack) • [🚀 Quick Start](#-quick-start)
 
 </div>
 
@@ -20,7 +20,7 @@
 
 ## 🌍 About SkyCast
 
-SkyCast is a sophisticated weather application built for modern web with attention to design excellence and user experience. It seamlessly combines cutting-edge technologies with an intuitive interface, making weather information accessible and visually appealing.
+SkyCast is a sophisticated weather application built for modern web with attention to design excellence and user experience. It seamlessly combines cutting-edge technologies with an intuitive interface to deliver professional-grade weather insights.
 
 Whether you're planning your day or checking global conditions, SkyCast delivers real-time weather data with stunning glassmorphism UI and smooth interactions.
 
@@ -264,25 +264,6 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 - **Tailwind CSS** for utility-first styling
 - **Framer Motion** for smooth animations
 - Community contributors and feedback
-
----
-
-## 📸 Screenshots
-
-### 🌞 Light Mode - Main Weather View
-Clean, bright interface showcasing the glassmorphism design with excellent visibility and modern aesthetics.
-
-![Light Mode](./public/screenshots/light-mode-main.png)
-
-### 🌙 Dark Mode - Main Weather View
-Elegant dark theme that reduces eye strain while maintaining perfect contrast and readability for all weather details.
-
-![Dark Mode](./public/screenshots/dark-mode-main.png)
-
-### 📅 5-Day Forecast
-Comprehensive forecast view showing daily predictions with weather icons, conditions, temperatures, and precipitation percentages.
-
-![5-Day Forecast](./public/screenshots/forecast-view.png)
 
 ---
 
