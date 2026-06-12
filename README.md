@@ -12,7 +12,7 @@
 
 > **A cutting-edge weather application featuring glassmorphism design, real-time data, 5-day forecasts, and seamless animations**
 
-[🔗 Live Demo](#live-demo) • [✨ Features](#-features) • [📚 Tech Stack](#-tech-stack) • [🚀 Quick Start](#-quick-start) • [📸 Screenshots](#-screenshots)
+[🔗 Live Demo](#live-demo) • [✨ Features](#✨-key-features) • [📚 Tech Stack](#-tech-stack) • [🚀 Quick Start](#-quick-start) • [📸 Screenshots](#-screenshots)
 
 </div>
 
@@ -26,7 +26,7 @@ Whether you're planning your day or checking global conditions, SkyCast delivers
 
 ---
 
-## 🎯 Key Features
+## ✨ Key Features
 
 ### 🎨 Design & UX Excellence
 - **❄️ Glassmorphism UI**: Premium frosted-glass effects with backdrop blur and elegant borders
@@ -52,7 +52,7 @@ Whether you're planning your day or checking global conditions, SkyCast delivers
 
 ---
 
-## 🏗️ Tech Stack
+## 📚 Tech Stack
 
 | Layer | Technology | Purpose |
 |:---:|:---|:---|
@@ -269,7 +269,32 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ## 📸 Screenshots
 
-<!-- Screenshots will be added here -->
+### 🌞 Light Mode - Main Weather View
+Clean, bright interface showcasing the glassmorphism design with excellent visibility and modern aesthetics.
+
+![Light Mode](./public/screenshots/light-mode-main.png)
+
+### 🌙 Dark Mode - Main Weather View
+Elegant dark theme that reduces eye strain while maintaining perfect contrast and readability for all weather details.
+
+![Dark Mode](./public/screenshots/dark-mode-main.png)
+
+### 📅 5-Day Forecast
+Comprehensive forecast view showing daily predictions with weather icons, conditions, temperatures, and precipitation percentages.
+
+![5-Day Forecast](./public/screenshots/forecast-view.png)
+
+---
+
+## 🛣️ Roadmap
+
+- [ ] 🗺️ Interactive weather map
+- [ ] 📊 Historical weather trends
+- [ ] 🚨 Weather alerts & notifications
+- [ ] 🌍 Multiple city comparison
+- [ ] 📥 Export weather reports as PDF
+- [ ] 🎤 Voice-controlled search
+- [ ] 📱 PWA support for offline access
 
 ---
 
