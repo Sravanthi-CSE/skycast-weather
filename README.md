@@ -12,13 +12,13 @@
 
 > **A cutting-edge weather application featuring glassmorphism design, real-time data, 5-day forecasts, and seamless animations**
 
-[🔗 Live Demo](#live-demo) • [📋 Features](#-features) • [🛠️ Tech Stack](#-tech-stack) • [⚡ Quick Start](#-quick-start) • [📱 Screenshots](#-screenshots)
+[🔗 Live Demo](#live-demo) • [✨ Features](#-features) • [📚 Tech Stack](#-tech-stack) • [🚀 Quick Start](#-quick-start) • [📸 Screenshots](#-screenshots)
 
 </div>
 
 ---
 
-## 📌 About SkyCast
+## 🌍 About SkyCast
 
 SkyCast is a sophisticated weather application built for modern web with attention to design excellence and user experience. It seamlessly combines cutting-edge technologies with an intuitive interface, making weather information accessible and visually appealing.
 
@@ -26,33 +26,33 @@ Whether you're planning your day or checking global conditions, SkyCast delivers
 
 ---
 
-## ✨ Key Features
+## 🎯 Key Features
 
 ### 🎨 Design & UX Excellence
-- **🔮 Glassmorphism UI**: Premium frosted-glass effects with backdrop blur and elegant borders
+- **❄️ Glassmorphism UI**: Premium frosted-glass effects with backdrop blur and elegant borders
 - **🌓 Dark/Light Mode**: Complete theme switching with persistent user preferences
 - **✨ Fluid Animations**: Smooth transitions and interactive hover effects powered by Framer Motion
 - **📱 Fully Responsive**: Pixel-perfect design across all devices (mobile, tablet, desktop)
 - **♿ Accessibility First**: WCAG-compliant design ensuring usability for all users
 
-### 🌍 Core Functionality
+### 🎯 Core Functionality
 - **🌡️ Real-Time Weather**: Current conditions including temperature, humidity, wind speed, and pressure
 - **📅 5-Day Forecast**: Daily weather predictions with visual indicators and trends
 - **📍 Smart Geolocation**: Automatic weather detection based on user's location
-- **🔐 Custom API Key**: Secure settings modal with localStorage persistence
+- **⚙️ Custom API Key**: Secure settings modal with localStorage persistence
 - **🔍 Search History**: Quick access to recently searched cities
-- **🔄 Unit Toggle**: Seamless switching between Celsius and Fahrenheit
+- **°F/°C Unit Toggle**: Seamless switching between Celsius and Fahrenheit
 
-### ⚙️ Technical Features
-- **Lightning-Fast Performance**: Optimized with Vite for instant HMR
-- **Type-Safe Development**: Full TypeScript support for robust code
-- **API Integration**: RESTful OpenWeatherMap API with error handling
-- **State Management**: Efficient context-based state handling
-- **Caching Strategy**: Smart data caching to minimize API calls
+### 🏆 Technical Features
+- **⚡ Lightning-Fast Performance**: Optimized with Vite for instant HMR
+- **📘 Type-Safe Development**: Full TypeScript support for robust code
+- **🔗 API Integration**: RESTful OpenWeatherMap API with error handling
+- **🎯 State Management**: Efficient context-based state handling
+- **💾 Caching Strategy**: Smart data caching to minimize API calls
 
 ---
 
-## 🛠️ Tech Stack
+## 🏗️ Tech Stack
 
 | Layer | Technology | Purpose |
 |:---:|:---|:---|
@@ -121,31 +121,31 @@ netlify deploy --prod --dir=dist
 
 ```
 skycast-weather/
-├── src/
-│   ├── components/          # Reusable React components
-│   │   ├── Header.tsx
-│   │   ├── SearchBar.tsx
-│   │   ├── WeatherCard.tsx
-│   │   ├── Forecast.tsx
-│   │   └── ...
-│   ├── hooks/               # Custom React hooks
-│   ├── context/             # React Context API
-│   ├── services/            # API services & utilities
-│   ├── styles/              # Global styles & themes
-│   ├── types/               # TypeScript interfaces
-│   ├── App.tsx              # Root component
-│   └── main.tsx             # Entry point
-├── public/                  # Static assets
-├── .env.local               # Environment variables
-├── vite.config.ts           # Vite configuration
-├── tailwind.config.js       # Tailwind configuration
-├── tsconfig.json            # TypeScript configuration
-└── package.json             # Dependencies & scripts
+├─ 📁 src/
+│  ├─ 📁 components/              # Reusable React components
+│  │  ├─ Header.tsx
+│  │  ├─ SearchBar.tsx
+│  │  ├─ WeatherCard.tsx
+│  │  ├─ Forecast.tsx
+│  │  └─ ...
+│  ├─ 📁 hooks/                   # Custom React hooks
+│  ├─ 📁 context/                 # React Context API
+│  ├─ 📁 services/                # API services & utilities
+│  ├─ 📁 styles/                  # Global styles & themes
+│  ├─ 📁 types/                   # TypeScript interfaces
+│  ├─ App.tsx                     # Root component
+│  ├─ main.tsx                    # Entry point
+├─ 📁 public/                     # Static assets
+├─ .env.local                     # Environment variables
+├─ vite.config.ts                 # Vite configuration
+├─ tailwind.config.js             # Tailwind configuration
+├─ tsconfig.json                  # TypeScript configuration
+├─ package.json                   # Dependencies & scripts
 ```
 
 ---
 
-## 🎯 Usage Guide
+## 📖 Usage Guide
 
 ### Basic Weather Check
 1. Allow geolocation access on app load
@@ -191,16 +191,16 @@ skycast-weather/
 
 ---
 
-## 📊 Performance Metrics
+## ⚡ Performance Metrics
 
-- ⚡ **Load Time**: < 2 seconds
+- ⏱️ **Load Time**: < 2 seconds
 - 📦 **Bundle Size**: ~180KB (gzipped)
-- 🎯 **Lighthouse Score**: 95+ across all metrics
-- 🚀 **First Contentful Paint**: < 1.5s
+- 🏆 **Lighthouse Score**: 95+ across all metrics
+- 🎨 **First Contentful Paint**: < 1.5s
 
 ---
 
-## 🔗 API Integration
+## 🔌 API Integration
 
 ### OpenWeatherMap Endpoints Used
 
@@ -267,28 +267,9 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ---
 
-## 📱 Screenshots
+## 📸 Screenshots
 
-### Light Mode
-![Light Mode](https://via.placeholder.com/800x600?text=SkyCast+Light+Mode)
-
-### Dark Mode
-![Dark Mode](https://via.placeholder.com/800x600?text=SkyCast+Dark+Mode)
-
-### Mobile Responsive
-![Mobile View](https://via.placeholder.com/400x800?text=SkyCast+Mobile)
-
----
-
-## 📈 Roadmap
-
-- [ ] 🗺️ Interactive weather map
-- [ ] 📊 Historical weather trends
-- [ ] 🔔 Weather alerts & notifications
-- [ ] 🌍 Multiple city comparison
-- [ ] 📤 Export weather reports as PDF
-- [ ] 🎤 Voice-controlled search
-- [ ] PWA support for offline access
+<!-- Screenshots will be added here -->
 
 ---
 
