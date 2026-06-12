@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <a href="YOUR_DEPLOYED_LINK_HERE"><strong>View Live Demo »</strong></a>
+  <a href= "https://agent-6a2bc5b9dfbf0c2d648a94--skycast-app-771d77.netlify.app/"><strong>View Live Demo »</strong></a>
   <br />
   <a href="https://github.com/Sravanthi-CSE/skycast-weather-app/issues">Report Bug</a>
   ·
